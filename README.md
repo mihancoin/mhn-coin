@@ -4,7 +4,7 @@ This is the reference code for [MihanCoin](https://mihancoin.org) cryptocurrency
 
 ### Preparation
 
-1. Create an account on [GitHub.com](https://github.com/)
+1. Create an account on [[GitHub.com](https://github.com/)]
 2. Fork [Mihancoin repository](https://github.com/mihancoin/mhn-coin)
 3. Buy one or two Ubuntu-based dedicated servers (at least 2Gb of RAM) for seed nodes.
 
