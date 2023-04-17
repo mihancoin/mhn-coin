@@ -12,7 +12,7 @@ This is the reference code for [MihanCoin](https://mihancoin.org) cryptocurrency
 
 
 
-## Building CryptoNote 
+## Building MihanCoin (MHN-Coin) 
 
 ### On *nix
 
